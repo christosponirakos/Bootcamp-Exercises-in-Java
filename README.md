@@ -1,1 +1,1 @@
-## Various exercises in java 8 (OOP, design patterns)
+## Various exercises in Object Oriented Programming with Java 8
